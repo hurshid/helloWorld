@@ -2,9 +2,6 @@ package com.codility;
 
 import java.util.Arrays;
 
-/**
- * Created by Hurshid on 2/4/2015.
- */
 public class FrogRiverOne {
 
     public static void main(String[] args) {

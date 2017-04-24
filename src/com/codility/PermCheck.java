@@ -3,9 +3,6 @@ package com.codility;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by Hurshid on 2/4/2015.
- */
 public class PermCheck {
 
     public static void main(String[] args) {

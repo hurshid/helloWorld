@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 1/21/2015.
- */
 public class CyclicRotation {
     public static void main(String[] args) {
         int[] A = {9, 3, 9, 3, 9, 7, 4};

@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 1/21/2015.
- */
 public class OddOccurrencesInArray {
     public static void main(String[] args) {
         int[] A = {3, 8, 9, 7, 6};

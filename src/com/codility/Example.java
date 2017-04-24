@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 3/25/2015.
- */
 public class Example {
 
     public static void main(String[] args) {

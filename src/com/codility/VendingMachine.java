@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 3/25/2015.
- */
 public class VendingMachine {
     public static void main(String[] args) {
         int[] a = solution(4.99, 4.01);

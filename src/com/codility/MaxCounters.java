@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 2/4/2015.
- */
 public class MaxCounters {
     public static void main(String[] args) {
 //        int[] A = {1, 3, 6, 4, 1, 2};

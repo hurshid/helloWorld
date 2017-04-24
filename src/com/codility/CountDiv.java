@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 2/4/2015.
- */
 public class CountDiv {
     public static void main(String[] args) {
         System.out.println(solution(11, 345, 17));

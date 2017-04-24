@@ -1,8 +1,6 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 1/21/2015.
- */
+
 public class BinaryGap {
 
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 2/4/2015.
- */
 public class MinAvgTwoSlice {
     public static void main(String[] args) {
         int[] A = {4, 2, 2, 5, 1, 5, 8};

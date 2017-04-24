@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 1/22/2015.
- */
 public class TapeEquilibrium {
 
     public static void main(String[] args) {

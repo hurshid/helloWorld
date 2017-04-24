@@ -2,9 +2,6 @@ package com.codility;
 
 import java.util.Arrays;
 
-/**
- * Created by Hurshid on 4/8/2015.
- */
 public class MaxProductOfThree {
     public static void main(String[] args) {
         int[] a = {-3, 1, 2, -2, 5, 6};

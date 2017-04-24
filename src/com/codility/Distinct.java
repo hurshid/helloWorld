@@ -2,9 +2,6 @@ package com.codility;
 
 import java.util.Arrays;
 
-/**
- * Created by Hurshid on 4/8/2015.
- */
 public class Distinct {
     public static void main(String[] args) {
         int[] a = {2, 1, 1, 2, 3, 1};

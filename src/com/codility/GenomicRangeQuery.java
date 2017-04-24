@@ -1,8 +1,5 @@
 package com.codility;
 
-/**
- * Created by Hurshid on 2/4/2015.
- */
 public class GenomicRangeQuery {
     public static void main(String[] args) {
         int[] P = {2, 5, 0};
